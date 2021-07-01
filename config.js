@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'tui biết mà, ahihi🥰. Mãi thương nhiều nhiều 😘😘',
     messDesc: 'nào hết dịch làm cái kèo to to nhá.',
     btnAccept: 'Okiiiii lunnn <3',
-    messLink: 'hhttps://www.youtube.com/watch?v=XRApso9_H44'
+    messLink: 'https://www.youtube.com/watch?v=XRApso9_H44'
 }
